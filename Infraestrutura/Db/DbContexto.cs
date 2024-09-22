@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using MinimalAPI.Dominio.Entidades;
-
 namespace MinimalAPI.Infraestrutura.Db;
 
 
@@ -13,6 +12,21 @@ public class DbContexto : DbContext
     {
         _configuracaoAppSettings = configuracaoAppSettings;
     }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Administrador>().HasData(
+            new Administrador {
+                Id = -1,
+               Email = "administrador@teste.com.br",
+               Senha = "123456",
+               Perfil = "Admin"
+            }
+        );
+    }
+
+
+
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
