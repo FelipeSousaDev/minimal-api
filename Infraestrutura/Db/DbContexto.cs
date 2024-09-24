@@ -6,6 +6,7 @@ namespace MinimalAPI.Infraestrutura.Db;
 public class DbContexto : DbContext 
 {
     public DbSet<Administrador> Administradores {get; set; } = default!;
+    public DbSet<Veiculo> Veiculos {get; set; } = default!;
 
     private readonly IConfiguration _configuracaoAppSettings;
     public DbContexto (IConfiguration configuracaoAppSettings)
@@ -24,8 +25,6 @@ public class DbContexto : DbContext
             }
         );
     }
-
-
 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
