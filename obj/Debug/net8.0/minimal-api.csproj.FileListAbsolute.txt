@@ -135,3 +135,4 @@ D:\BOOTCAMP XP INC\C#\PROJETOS\minimal-api\obj\Debug\net8.0\refint\minimal-api.d
 D:\BOOTCAMP XP INC\C#\PROJETOS\minimal-api\obj\Debug\net8.0\minimal-api.pdb
 D:\BOOTCAMP XP INC\C#\PROJETOS\minimal-api\obj\Debug\net8.0\minimal-api.genruntimeconfig.cache
 D:\BOOTCAMP XP INC\C#\PROJETOS\minimal-api\obj\Debug\net8.0\ref\minimal-api.dll
+D:\BOOTCAMP XP INC\C#\PROJETOS\minimal-api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
