@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pfll1MItcYA=",
+  "dgSpecHash": "yd5XGRh7jIM=",
   "success": true,
-  "projectFilePath": "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\minimal-api.csproj",
+  "projectFilePath": "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\Api\\minimal-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FELIPE\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\FELIPE\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

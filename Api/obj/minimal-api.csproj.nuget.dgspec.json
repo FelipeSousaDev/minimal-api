@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\minimal-api.csproj": {}
+    "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\Api\\minimal-api.csproj": {}
   },
   "projects": {
-    "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\minimal-api.csproj": {
+    "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\Api\\minimal-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\minimal-api.csproj",
+        "projectUniqueName": "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\Api\\minimal-api.csproj",
         "projectName": "minimal-api",
-        "projectPath": "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\minimal-api.csproj",
+        "projectPath": "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\Api\\minimal-api.csproj",
         "packagesPath": "C:\\Users\\FELIPE\\.nuget\\packages\\",
-        "outputPath": "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\obj\\",
+        "outputPath": "D:\\BOOTCAMP XP INC\\C#\\PROJETOS\\minimal-api\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FELIPE\\AppData\\Roaming\\NuGet\\NuGet.Config"
